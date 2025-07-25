@@ -19,8 +19,9 @@ This is the first prototype of the Ceelo Dice game, created using **Unity** and 
 
 Here's a sneak peek at the gameplay:
 
-<img src="docs/stake_made_screen_Unity.png" alt="Gameplay Screenshot" width="400"/>
-<img src="docs/mid_gameplay_screen_Unity.png" alt="Gameplay Screenshot" width="400"/>
+| Stake Made Screen | Mid Gameplay Screen |
+|-------------------|---------------------|
+| <img src="docs/stake_made_screen_Unity.png" alt="Stake Made Screenshot" width="400"/> | <img src="docs/mid_gameplay_screen_Unity.png" alt="Mid Gameplay Screenshot" width="400"/> |
 
 ---
 
