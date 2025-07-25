@@ -1,6 +1,6 @@
 # 🎲 Ceelo Dice - Unity Prototype
 
-This is the first prototype of the Ceelo Dice game, created using **Unity** and **C#**.
+This is the first prototype of my Ceelo Dice game, created using **Unity** and **C#**.
 
 > Developed as an early version to explore game mechanics and UI in Unity before moving to React Native.
 
